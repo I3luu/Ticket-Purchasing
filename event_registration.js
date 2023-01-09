@@ -7,7 +7,7 @@ var maxTickets = 3;
 var costPerTicket = 5.00;
 var ticketSurcharge = 0.50;
 var totalCost;
-/*** YOUR CODE STARTS BELOW HERE ***/
+
 
 function addMinutes(numOfMinutes, date = new Date()) {
 	date.setMinutes(date.getMinutes() + numOfMinutes);
